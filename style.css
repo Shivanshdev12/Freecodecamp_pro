@@ -1,0 +1,43 @@
+html
+{
+  background-color:#d3d3d3;
+  font-family: cursive;
+}
+#title
+{
+  text-align:center;
+  color:#010101;
+  font-family: fantasy;
+}
+#image
+{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:100%;
+  height:auto;
+}
+#img-caption
+{
+text-align:center;
+color:#636363;
+}
+#tribute-info
+{
+  background-color:#c3c3c3;
+}
+#tribute-info,li
+{
+  padding:10px 0px 10px 0px;
+  text-align:center;
+  font-size:17px;
+}
+cite
+{
+  padding:5px 0px 5px 0px;
+}
+h4
+{
+  padding:10px 0px 10px 0px;
+  text-align:center;
+}
